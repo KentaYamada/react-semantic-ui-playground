@@ -1,5 +1,5 @@
 # react-playground
-React + TypeScript + Bulmaの練習用リポジトリ
+React + TypeScript + Semantic UI Reactの練習用リポジトリ
 
 ## インストール
 ``` bash
